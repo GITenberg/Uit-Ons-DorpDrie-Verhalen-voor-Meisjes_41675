@@ -1,0 +1,32 @@
+_repo: Uit-Ons-DorpDrie-Verhalen-voor-Meisjes_41675
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41675-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Andriessen, P. J. (Pieter Jacob)
+    aliases:
+    - Andriesen, P. J. (Pieter Jacob)
+    - Andriessen, Pieter Jacob
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '9271'
+    url: http://www.gutenberg.org/2009/agents/9271
+    wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=andr018
+description: ''
+gutenberg_issued: '2012-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41675'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Netherlands -- Juvenile fiction'
+- !lcsh 'Children''s stories, Dutch'
+- !lcc 'PZ'
+tableOfContents: Jansje de sloddervos -- Annes kanarietje -- Het verdwaalde kind.
+title: 'Uit Ons Dorp: Drie Verhalen voor Meisjes'
+url: http://www.gutenberg.org/ebooks/41675
